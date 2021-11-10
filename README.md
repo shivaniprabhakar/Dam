@@ -23,7 +23,7 @@ https://github.com/Mike-Banks/BankAppDemo/blob/master/app/src/main/java/com/exam
 https://www.tutorialspoint.com/android/android_mediaplayer.htm
 
 8)Animation app 
-https://www.geeksforgeeks.org/android-animations-using-java/[Dam.docx](https://github.com/shivaniprabhakar/Dam/files/7506006/Dam.docx)
+https://www.geeksforgeeks.org/android-animations-using-java/
 
 
 9)Tailoring app:
